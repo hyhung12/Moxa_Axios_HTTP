@@ -1,4 +1,4 @@
-# learningJS
+# Moxa_HTTP
 ```
 const request = require('request');
 
@@ -19,4 +19,3 @@ request(options, function(error, response, body){
     console.log(body);
 });
 ```
-- model.find({}) returns a query object, which can be chained with other methods such as .exec() or .then() to execute the query and retrieve the results
